@@ -1,1 +1,2 @@
-file in write mode....hi! i am penguin. i am 1 years old/n file in append modehi i am parth and i make roblox games which uses a language called laua
+file in write. mode...hi! i am penguin. iam am 1yr old
+ file in append mode...hi i am peguin! i am 1 yr old
